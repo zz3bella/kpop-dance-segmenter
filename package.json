@@ -8,7 +8,6 @@
   },
   "dependencies": {
     "express": "^4.19.2",
-    "youtube-transcript": "^1.2.9" 
-    // 这个库用于获取带时间戳的字幕
+    "youtube-transcript": "^1.2.9"
   }
 }
